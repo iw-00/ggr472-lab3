@@ -1,0 +1,413 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Eyes to the skies bike tour with Changing Gears",
+          "website": "https://changinggearsadventures.ca/guided-bike-tours",
+          "type": "Unique stargazing experiences",
+          "location": "Goderich, Ontario"
+        },
+        "geometry": {
+          "coordinates": [
+            -81.71008253244209,
+            43.743169811910946
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chronos Observatory at Calamus Estate Winery",
+          "website": "https://calamuswines.com/observatory/",
+          "type": "Unique stargazing experiences",
+          "location": "3100 Glen Road, Jordan Station"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.37950129034226,
+            43.1273912392746
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Stargazing Parties",
+          "website": "https://www.ottawa.rasc.ca/star-parties/",
+          "type": "Unique stargazing experiences",
+          "location": "3911 Carp Road, Carp"
+        },
+        "geometry": {
+          "coordinates": [
+            -76.05217001190756,
+            45.35185522733465
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Four Corners Algonquin",
+          "website": "https://www.fourcornersalgonquin.ca/",
+          "type": "Unique stargazing experiences",
+          "location": "29924 ON-60, Whitney"
+        },
+        "geometry": {
+          "coordinates": [
+            -78.25337202315878,
+            45.506388973191804
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Into the Night Sky: Adventures in Astronomy with Yours Outdoors",
+          "website": "https://www.yoursoutdoors.ca/packages/night-sky-adventures-astronomy",
+          "type": "Unique stargazing experiences",
+          "location": "1095 Redkenn Road, Haliburton Forest"
+        },
+        "geometry": {
+          "coordinates": [
+            -78.56455001190889,
+            45.22652920793081
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Evergreen Forest",
+          "website": "https://evergreenforest.ca/",
+          "type": "Unique stargazing experiences",
+          "location": "381135 Concession 17, Georgian Bluffs"
+        },
+        "geometry": {
+          "coordinates": [
+            -81.13401753537231,
+            44.699168376332864
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Red Bay Lodge",
+          "website": "https://redbaylodge.com/",
+          "type": "Unique stargazing experience",
+          "location": "462 Huron Road, Mar"
+        },
+        "geometry": {
+          "coordinates": [
+            -81.28356026571613,
+            44.8068241959233
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "David Dunlap Observatory",
+          "website": "https://www.richmondhill.ca/en/david-dunlap-observatory.aspx",
+          "type": "Observatories and astronomy centres",
+          "location": "123 Hillsview Drive, Richmond Hill"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.42329356877488,
+            43.860205460317815
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Allan I. Carswell Astronomical Observatory",
+          "website": "https://observatory.info.yorku.ca/",
+          "type": "Observatories and astronomy centres",
+          "location": "Life Sciences Building, 6 Thompson Road, North York"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.50795811487278,
+            43.77410067396849
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hume Cronyn Memorial Observatory",
+          "website": "https://cronyn.uwo.ca/",
+          "type": "Observatories and astronomy centres",
+          "location": "1151 Richmond Street, London"
+        },
+        "geometry": {
+          "coordinates": [
+            -81.26385532274348,
+            43.008046742094365
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bayside Astronomy",
+          "website": "https://www.bpba.ca/bayside-astronomy",
+          "type": "Observatories and astronomy centres",
+          "location": "1 Bruin Street, Lion's Head"
+        },
+        "geometry": {
+          "coordinates": [
+            -81.24954555618679,
+            44.99078565349549
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "William J. McCallion Planetarium",
+          "website": "https://physics.mcmaster.ca/planetarium/schedule.html",
+          "type": "Observatories and astronomy centres",
+          "location": "Burke Science Building B149, McMaster University, 1280 Main Street, West, Hamilton"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.9201523674285,
+            43.26201113129599
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Long Point Eco Adventures",
+          "website": "https://www.lpfun.ca/stargazing",
+          "type": "Observatories and astronomy centres",
+          "location": "1730 Front Road, St. Williams"
+        },
+        "geometry": {
+          "coordinates": [
+            -80.34824122881716,
+            42.688936790661046
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "David Thompson Astronomical Observatory",
+          "website": "https://fwhp.ca/",
+          "type": "Observatories and astronomical centres",
+          "location": "1350 King Road, Thunder Bay"
+        },
+        "geometry": {
+          "coordinates": [
+            -89.35423416148555,
+            48.34704647820459
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bluewater Outdoor Education Centre",
+          "website": "https://bluewaterastronomy.com/",
+          "type": "Dark-sky sites, parks and preserves",
+          "location": "3092 Bruce Road 13, Oliphant"
+        },
+        "geometry": {
+          "coordinates": [
+            -81.23393348951245,
+            44.74106472935512
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Torrance Barrens Dark Sky Preserve",
+          "website": "https://www.torrancebarrens.com/",
+          "type": "Dark-sky sites, parks and preserves",
+          "location": "Southwood Road, Gravenhurst"
+        },
+        "geometry": {
+          "coordinates": [
+            -79.5143248914798,
+            44.94149522055989
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bruce Peninsula National Park",
+          "website": "https://www.pc.gc.ca/en/pn-np/on/bruce",
+          "type": "Dark-sky sites, parks and preserves",
+          "location": "469 Cyprus Lake Road, Tobermory"
+        },
+        "geometry": {
+          "coordinates": [
+            -81.5247325687756,
+            45.22556020778066
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lake Superior Provincial Park",
+          "website": "https://www.ontarioparks.com/park/lakesuperior",
+          "type": "Dark-sky sites, parks and preserves",
+          "location": "96 Broadway Avenue, Wawa"
+        },
+        "geometry": {
+          "coordinates": [
+            -84.81132433756109,
+            47.72367366009718
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lennox and Addington Dark Sky Viewing Area",
+          "website": "https://naturallyla.ca/explore/dark-sky-viewing-area-lennox-addington/",
+          "type": "Dark-sky sites, parks and preserves",
+          "location": "7980 County Road, Erinsville"
+        },
+        "geometry": {
+          "coordinates": [
+            -77.11657626789538,
+            44.559097146275064
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Point Pelee National Park",
+          "website": "https://www.pc.gc.ca/en/pn-np/on/pelee/activ/sky-ciel",
+          "type": "Dark-sky sites, parks and preserves",
+          "location": "1118 Point Pelee Drive, Leamington"
+        },
+        "geometry": {
+          "coordinates": [
+            -82.51826238060946,
+            41.954496693654676
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "North Frontenac Astronomy Park",
+          "website": "https://www.northfrontenac.com/en/open-for-business/north-frontenac-astronomy-park.aspx",
+          "type": "Dark-sky sites, parks and preserves",
+          "location": "5816 Road 506, Plevna"
+        },
+        "geometry": {
+          "coordinates": [
+            -76.939567814561,
+            44.91825083865447
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Killarney Provincial Park",
+          "website": "https://www.ontarioparks.ca/park/killarney",
+          "type": "Dark-sky sites, parks and preserves",
+          "location": "958 ON-637, Killarney"
+        },
+        "geometry": {
+          "coordinates": [
+            -81.40157664723864,
+            46.01190631898933
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The DarkSky Preserve at Manitoulin Eco Park",
+          "website": "https://www.manitoulinecopark.com/",
+          "type": "Dark-sky sites, parks and preserves",
+          "location": "18777 ON-6, Tehkummah"
+        },
+        "geometry": {
+          "coordinates": [
+            -81.95886594541912,
+            45.66626287283293
+          ],
+          "type": "Point"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Quetico Provincial Park",
+          "website": "https://www.ontarioparks.com/park/quetico",
+          "type": "Dark-sky sites, parks and preserves",
+          "location": "ON-11, Atikokan"
+        },
+        "geometry": {
+          "coordinates": [
+            -91.14930274159087,
+            48.682599160632606
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      }
+    ]
+  }
