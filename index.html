@@ -35,7 +35,7 @@
     <div class='map-search-container'>
         <label class="option-label" for="geocoder"><b>Search for location</b></label>
         <div id="geocoder" class="geocoder"></div>
-        <button type="button" class="btn btn-secondary btn-sm" id="zoombutton">Zoom into Halifax urban core</button>
+        <button type="button" class="btn btn-secondary btn-sm" id="zoombutton">Zoom to Halifax urban core</button>
         <button type="button" class="btn btn-secondary btn-sm" id="returnbutton">Show full map extent</button>
     </div>
 
@@ -46,12 +46,11 @@
     </div>
 
     <div id='type-legend' class='legend'>
-        <h4>Location Type</h4>
+        <h4>General Location</h4>
         <!-- Contents of legend will now be added here -->
     </div>
 
     <!-- INTERACTIVITY -->
-
     <div class='map-data-container'>
         <label class="option-label" for="layercheck"><b>Map View Options</b></label>
 
@@ -74,7 +73,7 @@
                 <select id="layer" name="layer">
                     <option value="" disabled selected>Select attribute...</option>
                     <option value="Bin Type">Bin Type</option>
-                    <option value="Location Type">Location Type</option>
+                    <option value="General Location">General Location</option>
                 </select>
             </fieldset>
         </form>
@@ -86,14 +85,16 @@
         <h4>Litter Bins in Halifax</h4>
 
         <p>This map is based on an inventory of litter bins in Halifax Regional Municipality. 
-            Use the <b>Select Attribute</b> dropdown menu to view bins by Bin Type or Location Type. <br><br>
-        
-            Original dataset is from <a href="https://data-hrm.hub.arcgis.com/datasets/HRM::litter-bins/about" target="_blank">HRM Open Data</a>.
+            Use the <b>Select Attribute</b> dropdown menu to view bins by Bin Type or General Location. <br><br>
+
+            Click on a point for more details. Original dataset is from <a href="https://data-hrm.hub.arcgis.com/datasets/HRM::litter-bins/about" target="_blank">HRM Open Data</a>.
         </p>
-        <!-- Contents of legend will now be added here -->
     </div>
 
+    <!-- script -->
     <script src="script.js"></script>
+    
+    <!-- bootstrap -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
