@@ -32,6 +32,6 @@ Features include:
 
 `index.html`: HTML file to render map, geocoder, legend, buttons, checkboxes, and dropdown.
 
-`script.jss`: JavaScript file containing code to add elements to map, add interactivity based on HTML element events.
+`script.js`: JavaScript file containing code to add elements to map, add interactivity based on HTML element events.
 
 `style.css`: CSS file for styling and positioning map interface and elements.
