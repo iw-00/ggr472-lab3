@@ -14,7 +14,7 @@
     margin: 10px 0 0 10px;
     padding: 10px;
     border-radius: 8px;
-    overflow: visible;
+    overflow: visible; /* does not clip overflow */
 }
 
 .geocoder {

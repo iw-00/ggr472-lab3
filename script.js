@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------------------
-GGR472 Lab 3: Adding styling and interactivity  to web maps with JavaScript.
+GGR472 Lab 3: Adding styling and interactivity to web maps with JavaScript.
 --------------------------------------------------------------------------------*/
 
 // Add default public map token from Mapbox.
@@ -140,7 +140,7 @@ CREATE LEGENDS - for bin type and general location layers
 
 // general location legend
 // ------------------------------------------------------------
-//Declare array variables for labels and colours
+// Declare array variables for labels and colours
 const loclegendlabels = [
     "Wire Mesh",
     "Barrel",

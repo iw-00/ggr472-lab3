@@ -24,7 +24,7 @@ Features include:
 * Map view options
     * Toggle layer visibility
     * Toggle description visibility
-    * Select attribute to view (Location Type or Bin Type)
+    * Select attribute to view (General Location or Bin Type)
 * Pop-ups on click showing bin type, general location, owner, and bin material
 * Size and stroke of points changing on hover
 
